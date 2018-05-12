@@ -1,0 +1,39 @@
+_repo: The-Co-Citizens_30891
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Booth, Hanson
+    birthdate: 1885
+    deathdate: 1944
+    gutenberg_agent_id: '8427'
+    url: http://www.gutenberg.org/2009/agents/8427
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harris, Corra
+    aliases:
+    - Harris, Corra May White
+    - White, Corra May
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '25937'
+    url: http://www.gutenberg.org/2009/agents/25937
+    wikipedia: http://en.wikipedia.org/wiki/Corra_May_Harris
+description: ''
+gutenberg_issued: '2010-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Southern States -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Women -- Suffrage -- United States -- Fiction'
+title: The Co-Citizens
+url: http://www.gutenberg.org/ebooks/30891
